@@ -1,0 +1,15 @@
+# Exact versions used to produce the results in the manuscript and notebook.
+# Minimum compatible versions are noted in comments; the code has no
+# dependency on features newer than SciPy 1.11 / NumPy 1.24 / Matplotlib 3.7,
+# but pinning here guarantees byte-for-byte reproducibility of the figures.
+
+numpy==2.4.4          # minimum: numpy>=1.24
+scipy==1.17.1          # minimum: scipy>=1.11
+matplotlib==3.10.8     # minimum: matplotlib>=3.7
+
+# Only required to run the notebook interactively; not needed by
+# figures.py / response_figures.py / sira.py on their own.
+jupyter>=1.0
+nbclient>=0.9
+nbformat>=5.9
+ipykernel>=6.25

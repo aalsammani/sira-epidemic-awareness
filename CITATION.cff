@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, alongside the manuscript it accompanies. Once this repository has been archived on Zenodo, add the assigned DOI to this file's 'identifiers' section (see https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content for the recommended format)."
+title: "SIRA: Reproducible Code for \"Long-term Coexistence of Epidemics and Risk Awareness: Impacts of Adaptive Human Response and Fatigue\""
+type: software
+authors:
+  - family-names: Alsammani
+    given-names: Abdallah
+    affiliation: "Department of Mathematical Sciences, Delaware State University, Dover, DE, USA"
+    email: aalsammani@desu.edu
+  - family-names: Mohammed
+    given-names: Mozzamil
+    affiliation: "College of Business, Jumeira University, Dubai, United Arab Emirates"
+version: 1.0.0
+date-released: "2026-08-15"
+repository-code: "https://github.com/aalsammani/sira-epidemic-awareness"
+license: MIT
+keywords:
+  - epidemic modeling
+  - adaptive human behavior
+  - risk awareness
+  - behavioral fatigue
+  - Hopf bifurcation
+  - uniform persistence
+  - compartmental models
+preferred-citation:
+  type: article
+  title: "Long-term Coexistence of Epidemics and Risk Awareness: Impacts of Adaptive Human Response and Fatigue"
+  authors:
+    - family-names: Alsammani
+      given-names: Abdallah
+    - family-names: Mohammed
+      given-names: Mozzamil
+  journal: BIOMATH
+  year: 2026
+  status: submitted

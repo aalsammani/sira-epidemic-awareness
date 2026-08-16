@@ -1,0 +1,32 @@
+{
+ "baseline": {
+  "attractor_range": [
+   0.015536,
+   0.015536
+  ],
+  "across_ic_spread": [
+   0.0,
+   0.0
+  ]
+ },
+ "hopf_stable_d1_0.30": {
+  "attractor_range": [
+   0.021525,
+   0.021525
+  ],
+  "across_ic_spread": [
+   0.0,
+   0.0
+  ]
+ },
+ "hopf_cycle_d1_0.60": {
+  "attractor_range": [
+   0.000238,
+   0.081497
+  ],
+  "across_ic_spread": [
+   0.0,
+   1.7e-07
+  ]
+ }
+}

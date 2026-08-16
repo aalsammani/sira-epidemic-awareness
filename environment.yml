@@ -1,0 +1,12 @@
+name: sira
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy=2.4.4
+  - scipy=1.17.1
+  - matplotlib=3.10.8
+  - jupyter
+  - nbclient
+  - nbformat
+  - ipykernel
